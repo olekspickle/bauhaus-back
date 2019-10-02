@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cca360fab0b33de45a138becfafe020",
+    "revision": "a31d19ee7071e48a824f8e1f290e92d0",
     "url": "/bauhaus-back/index.html"
   },
   {
-    "revision": "8a8ee5e9eebd7aefffca",
+    "revision": "fbfd8bf0f867cdaa33f8",
     "url": "/bauhaus-back/static/css/main.3cc335e0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bauhaus-back/static/js/2.9e6c1d57.chunk.js"
   },
   {
-    "revision": "8a8ee5e9eebd7aefffca",
-    "url": "/bauhaus-back/static/js/main.d5b980eb.chunk.js"
+    "revision": "fbfd8bf0f867cdaa33f8",
+    "url": "/bauhaus-back/static/js/main.7b93c9a3.chunk.js"
   },
   {
     "revision": "589d10876794838b3664",

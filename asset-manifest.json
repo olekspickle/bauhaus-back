@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bauhaus-back/static/css/main.3cc335e0.chunk.css",
-    "main.js": "/bauhaus-back/static/js/main.d5b980eb.chunk.js",
-    "main.js.map": "/bauhaus-back/static/js/main.d5b980eb.chunk.js.map",
+    "main.js": "/bauhaus-back/static/js/main.7b93c9a3.chunk.js",
+    "main.js.map": "/bauhaus-back/static/js/main.7b93c9a3.chunk.js.map",
     "runtime~main.js": "/bauhaus-back/static/js/runtime~main.a27f137d.js",
     "runtime~main.js.map": "/bauhaus-back/static/js/runtime~main.a27f137d.js.map",
     "static/js/2.9e6c1d57.chunk.js": "/bauhaus-back/static/js/2.9e6c1d57.chunk.js",
     "static/js/2.9e6c1d57.chunk.js.map": "/bauhaus-back/static/js/2.9e6c1d57.chunk.js.map",
     "index.html": "/bauhaus-back/index.html",
-    "precache-manifest.a256077e826cb66824e5df09c7a22779.js": "/bauhaus-back/precache-manifest.a256077e826cb66824e5df09c7a22779.js",
+    "precache-manifest.7f8e6958577e8e38e7ec3d346039e4d1.js": "/bauhaus-back/precache-manifest.7f8e6958577e8e38e7ec3d346039e4d1.js",
     "service-worker.js": "/bauhaus-back/service-worker.js",
     "static/css/main.3cc335e0.chunk.css.map": "/bauhaus-back/static/css/main.3cc335e0.chunk.css.map"
   }
