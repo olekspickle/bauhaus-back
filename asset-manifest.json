@@ -1,15 +1,22 @@
 {
   "files": {
     "main.css": "/bauhaus-back/static/css/main.3cc335e0.chunk.css",
-    "main.js": "/bauhaus-back/static/js/main.7b93c9a3.chunk.js",
-    "main.js.map": "/bauhaus-back/static/js/main.7b93c9a3.chunk.js.map",
-    "runtime~main.js": "/bauhaus-back/static/js/runtime~main.a27f137d.js",
-    "runtime~main.js.map": "/bauhaus-back/static/js/runtime~main.a27f137d.js.map",
-    "static/js/2.9e6c1d57.chunk.js": "/bauhaus-back/static/js/2.9e6c1d57.chunk.js",
-    "static/js/2.9e6c1d57.chunk.js.map": "/bauhaus-back/static/js/2.9e6c1d57.chunk.js.map",
+    "main.js": "/bauhaus-back/static/js/main.ff2de97d.chunk.js",
+    "main.js.map": "/bauhaus-back/static/js/main.ff2de97d.chunk.js.map",
+    "runtime-main.js": "/bauhaus-back/static/js/runtime-main.c3a6eac2.js",
+    "runtime-main.js.map": "/bauhaus-back/static/js/runtime-main.c3a6eac2.js.map",
+    "static/js/2.6369bfd4.chunk.js": "/bauhaus-back/static/js/2.6369bfd4.chunk.js",
+    "static/js/2.6369bfd4.chunk.js.map": "/bauhaus-back/static/js/2.6369bfd4.chunk.js.map",
     "index.html": "/bauhaus-back/index.html",
-    "precache-manifest.7f8e6958577e8e38e7ec3d346039e4d1.js": "/bauhaus-back/precache-manifest.7f8e6958577e8e38e7ec3d346039e4d1.js",
+    "precache-manifest.96126aaadca02bbe8bbd3455daff721e.js": "/bauhaus-back/precache-manifest.96126aaadca02bbe8bbd3455daff721e.js",
     "service-worker.js": "/bauhaus-back/service-worker.js",
-    "static/css/main.3cc335e0.chunk.css.map": "/bauhaus-back/static/css/main.3cc335e0.chunk.css.map"
-  }
+    "static/css/main.3cc335e0.chunk.css.map": "/bauhaus-back/static/css/main.3cc335e0.chunk.css.map",
+    "static/js/2.6369bfd4.chunk.js.LICENSE.txt": "/bauhaus-back/static/js/2.6369bfd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3a6eac2.js",
+    "static/js/2.6369bfd4.chunk.js",
+    "static/css/main.3cc335e0.chunk.css",
+    "static/js/main.ff2de97d.chunk.js"
+  ]
 }
