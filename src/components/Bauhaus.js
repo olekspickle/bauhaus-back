@@ -7,7 +7,7 @@ const colors = ["yellow", "blue", "red", "orange", "green", "black"];
 
 class Bauhaus extends React.Component {
   renderTriangles = () => {
-    return Array.from(Array(50)).map((el, i) => {
+    return Array.from(Array(10)).map((el, i) => {
       let top = Math.ceil(Math.random() * 90);
       let left = Math.ceil(Math.random() * 90);
       let w = Math.ceil(Math.random() * 200);
