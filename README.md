@@ -2,4 +2,4 @@
 
 Feel free to just grab it for randomly generated dim geometrical chaotic background. 
 
-![example](public/example.png "Project supported by web3 foundation grants program")
+![example](public/img/example.png "Project supported by web3 foundation grants program")
