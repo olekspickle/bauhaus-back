@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "private": true,
   "dependencies": {
-    "@babel/core": "^7.16.0",
+    "@babel/core": "^7.29.7",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.16",
     "@svgr/webpack": "^6.2.1",
     "babel-jest": "^30.4.1",
