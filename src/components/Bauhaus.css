@@ -1,0 +1,45 @@
+.bauhaus-scene {
+  position: relative;
+  z-index: -1;
+  opacity: 0.3;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.shape {
+  position: absolute;
+  width: calc(var(--w) * 1px);
+  height: calc(var(--h) * 1px);
+  top: calc(var(--top) * 1%);
+  left: calc(var(--left) * 1%);
+  background-color: var(--color);
+  opacity: var(--opacity, 1);
+  transition: 3s;
+}
+
+.shape-circle {
+  border-radius: 50%;
+  animation: floating 3s ease-in-out infinite;
+}
+
+.shape-angle {
+  border-radius: 40px 50px 150px;
+  transform: rotate(calc(var(--rotate) * 1deg));
+}
+
+.shape-triangle {
+  width: 0;
+  height: 0;
+  border-top: 30px solid transparent;
+  border-bottom: 35px solid transparent;
+  border-left-width: 60px;
+  border-left-style: solid;
+  border-left-color: var(--color);
+  background-color: transparent;
+  animation-name: var(--tri-anim);
+  animation-duration: 10s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}

@@ -14,8 +14,7 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
+
     steps:
       - uses: actions/checkout@v7
 
@@ -31,4 +30,4 @@ jobs:
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          build_dir: build
+          build_dir: dist
